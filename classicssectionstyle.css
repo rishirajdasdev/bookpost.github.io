@@ -1,0 +1,15 @@
+body {
+	background-image: url(https://cdn.shopify.com/s/files/1/0882/1686/products/shutterstock_103225520_6e417870-7293-4122-a5ce-4492ecd2089b_1024x1024.jpg?v=1498540983);
+	background-size: cover;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	font-size: 300%;
+}
+
+h3 {
+	color: white;
+	text-align: right;
+}

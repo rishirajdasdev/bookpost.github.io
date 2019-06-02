@@ -1,0 +1,17 @@
+body {
+	background-image: url(https://s26162.pcdn.co/wp-content/uploads/2018/12/11-bookstores-6-three-lives-2.w710.h473.2x.jpg);
+	background-size: center;
+}
+
+h1,p,h3 {
+	color: white;
+}
+
+h1,p {
+	text-align: center;
+}
+
+h3 {
+	text-align: right;
+
+}
